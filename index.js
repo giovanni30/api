@@ -17,9 +17,11 @@ const dbOptions = {
     // user: process.env.GATSBY_USER_BD,
     // password: process.env.GATSBY_PASS_BD,
     // database: process.env.GATSBY_BD
+    // password: 'cd4dm1n',
+    // database: 'bioseikatsu'
     user: 'root',
-    password: 'cd4dm1n',
-    database: 'bioseikatsu'
+    password: 'Cd4dm1n.',
+    database: 'u194495969_bioseikatsu'
 }
 
 //Habilitar cors
